@@ -1,1 +1,1 @@
-db_name = 
+db_name = github.com
